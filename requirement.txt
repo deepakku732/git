@@ -1,0 +1,7 @@
+this is chat application
+emoji
+types options
+background colur 
+videocall
+voicecall
+vibrante
